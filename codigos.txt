@@ -1,0 +1,8 @@
+cordova create garconapp br.com.etecmcm "GarçomApp"
+
+cordova platform add browser
+
+cordova run browser
+
+ctrl+c para o cmd
+
